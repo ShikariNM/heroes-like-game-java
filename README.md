@@ -6,3 +6,10 @@ The game has two versions: console and desktop. The last one was made in android
 
 ## Gameplay
 The game process is quite primitive. It is divided by cycles. Each cycle includes one step of all alive characters. During a step, characters can move, hit, use abilities depending on a character class and a situation on the field. After each cycle, the game pauses and waits for a signal to resume. The signal is «Enter» button press in console version and «Left mouse button» or touchpad press in desktop version. The game continues unless there are no alive characters left in one team.
+
+## Screenshots
+![Desktop version screenshot](readme_images/desktop_version_1.png)
+![Desktop version screenshot](readme_images/desktop_version_2.png)
+![Desktop version screenshot](readme_images/console_version_1.png)
+![Desktop version screenshot](readme_images/console_version_2.png)
+![Desktop version screenshot](readme_images/console_version_3.png)
